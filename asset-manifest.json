@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cost-Manager-App/static/css/main.640b7a08.css",
+    "main.js": "/Cost-Manager-App/static/js/main.cb75dd70.js",
+    "index.html": "/Cost-Manager-App/index.html",
+    "main.640b7a08.css.map": "/Cost-Manager-App/static/css/main.640b7a08.css.map",
+    "main.cb75dd70.js.map": "/Cost-Manager-App/static/js/main.cb75dd70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.640b7a08.css",
+    "static/js/main.cb75dd70.js"
+  ]
+}
